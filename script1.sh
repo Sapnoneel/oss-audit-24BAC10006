@@ -1,5 +1,5 @@
 #!/bin/bash
-#Script 1: System Indentity Report
+#Script 1: System Identity Report
 #Author: Sapnoneel Barik
 #Course: Open Source Software (Linux Administration)
 #Description: Display system information as a welcome screen

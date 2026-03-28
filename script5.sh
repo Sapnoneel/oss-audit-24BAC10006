@@ -3,7 +3,7 @@
 #Author: Sapnoneel Barik
 #Course: Open Source Software (Linux Administration)
 #Description: Interactively asks the user three questions and generates
-#             a personalised open source philosophy statement, then
+#             a personalized open source philosophy statement, then
 #             saves it to a .txt file with the current date.
 
 #-- Alias concept demonstrated via comment --

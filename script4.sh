@@ -3,7 +3,7 @@
 #Author: Sapnoneel Barik
 #Course: Open Source Software (Linux Administration)
 #Description: Reads a log file line by line using a while-read loop,
-#             counts occurances of a keyword, prints a summary,
+#             counts occurrences of a keyword, prints a summary,
 #             and displays the last 5 matching lines found.
 
 #-- Command line arguments --
@@ -51,7 +51,7 @@ while IFS= read -r LINE; do      #Read each line preserving whitespace
 
 done < "$LOGFILE"               #Redirects file contents into while loop
 
-#-- Print summary of keyword occurances --
+#-- Print summary of keyword occurrences --
 echo "  Keyword '$KEYWORD' found $COUNT time(s) in:"
 echo "  $LOGFILE"
 echo ""

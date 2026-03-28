@@ -69,7 +69,7 @@ echo "================================================"  >> "$OUTPUT"
 #--Confirm file was saved and displays it --
 echo "  Manifesto saved to: $OUTPUT"
 echo "================================================="
-echo "          Your Manifestor"
+echo "          Your Manifesto"
 echo "================================================="
 
 #-- Display the saved manifesto using cat --
